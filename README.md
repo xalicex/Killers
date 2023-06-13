@@ -1,7 +1,7 @@
 # Killers
 
 <p align="center">
-  <img src="https://github.com/xalicex/Killers/blob/main/killers.jpg"  width=30% height=30% >
+  <img src="https://github.com/xalicex/Killers/blob/main/killers.jpg"  width=40% height=40% >
 </p>
 
 ## Avast
