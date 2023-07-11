@@ -16,7 +16,7 @@ int main(void) {
 		return -1;
 	}
   
-	printf("Connected to IOBit Malware fighter driver\n");
+	printf("Connected to PowerTool driver\n");
 	printf("PID please : \n");
 	scanf("%u", &pid);
 

