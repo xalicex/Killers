@@ -22,4 +22,5 @@ x86_64-w64-mingw32-gcc -o PowerTool_killer.exe PowerTool_killer.c
 sc.exe create kEvP64.sys binPath= C:\windows\temp\kEvP64.bin type= kernel && sc.exe start kEvP64.sys
 ```
 PowerTool official website : http://powertool.s601.xrea.com/
+
 Download page : https://www.softpedia.com/get/Antivirus/Removal-Tools/ithurricane-PowerTool.shtml
