@@ -4,7 +4,9 @@
   <img src="https://github.com/xalicex/Killers/blob/main/killers.jpg"  width=40% height=40% >
 </p>
 
-This is the blogpost related to this repository : https://alice.climent-pommeret.red/posts/process-killer-driver/
+In this repository 2 PoCs exploiting 2 different vulnerable process killer driver are available.
+
+These PoCs are related to a blogpost explaining how to find, reverse and exploit this type of vulnerable driver : https://alice.climent-pommeret.red/posts/process-killer-driver/
 
 ## Avast
 
