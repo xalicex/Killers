@@ -4,6 +4,8 @@
   <img src="https://github.com/xalicex/Killers/blob/main/killers.jpg"  width=40% height=40% >
 </p>
 
+This is the blogpost related to this repository : https://alice.climent-pommeret.red/posts/process-killer-driver/
+
 ## Avast
 
 https://www.loldrivers.io/drivers/57fc510a-e649-4599-b83e-8f3605e3d1d9/
