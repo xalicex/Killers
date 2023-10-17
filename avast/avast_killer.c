@@ -16,7 +16,7 @@ int main(void) {
 		return -1;
 	}
 	
-	printf("Connected to the Avast anti-rootkit driver);
+	printf("Connected to the Avast anti-rootkit driver");
 	printf("PID please : \n");
 	scanf("%u", &pid);
 
